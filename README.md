@@ -2,7 +2,7 @@
 
 ![Cobble Stone 01](images/pixelprato_Cobble_Stone_01.jpg)
 
-Kudos to team [Render96](https://github.com/Render96) for uncovering this marvel: the use of the Cobble_Stone texture in retro games like Mario 64, Mario Kart 64, Killer Instinct, and more.
+Kudos to team [Render96](https://github.com/Render96) [YouTube](https://youtu.be/bsCN0Yx2Vbs?si=wp9G3OGoAuSuikkp) for uncovering this marvel: the use of the Cobble_Stone texture in retro games like Mario 64, Mario Kart 64, Killer Instinct, and more.
 
 I’ve remastered it while preserving its original essence, scaling it to a 128px dimension. With a pixel-art approach in mind, I’m sharing this texture set for use in your shaders.
 
